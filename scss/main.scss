@@ -1,0 +1,10 @@
+@import './font-styles';
+@import './colors';
+
+body {
+    color: $color;
+
+    h1 {
+        font-style: $headingStyle;
+    }
+}
